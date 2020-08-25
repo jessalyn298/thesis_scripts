@@ -1,2 +1,2 @@
 # thesis_scripts
-A repository for scripts and programmes written for completion oh my doctoral thesis.
+A repository for scripts and programmes written for completion of my doctoral thesis.
