@@ -101,7 +101,6 @@ for (i in list_of_transporters) {
 # [1] "2.A.17."
 # W = 0.48047, p-value = 3.663e-08
 # [1] "2.A.78."
-# data:  as.matrix(boxplot_dat[i])
 # W = 0.83877, p-value = 0.001362
 # [1] "2.A.114."
 # W = 0.82316, p-value = 0.0007221
